@@ -1,6 +1,11 @@
 # personalWebsite
 Andrew Doolittle's personal website
 
+## Software Engineering Portfolio
+* ExperienceIt
+* Game Tagger
+* Focus24
+
 ## Technologies Used
 #### Front End
 * JavaScript
