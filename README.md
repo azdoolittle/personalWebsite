@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,31 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# personalWebsite
+Andrew Doolittle's personal website
+
+## Software Engineering Portfolio
+* ExperienceIt
+* Game Tagger
+* Focus24
+
+## Technologies Used
+#### Front End
+* JavaScript
+* React
+* SASS
+* Bootstrap
+
+#### Back End
+* Node.js
+* Express
+* MongoDB
+
+#### Dev Tools
+* Git
+* Webpack
+* Babel
+* Jest
+* Docker
+>>>>>>> c0d691f35ca84534fe1fdb704b1ad9dc46b636a4
